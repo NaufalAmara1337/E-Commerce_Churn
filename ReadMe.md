@@ -4,11 +4,11 @@ This project focuses on predicting customer churn for an e-commerce company. The
 
 The analysis process is as follows:
 
-**Data Loading and Exploration**: Initial data loading, exploration, and cleaning to ensure the dataset is ready for modeling.
-**Feature Engineering**: Creating new features or modifying existing ones to improve model performance.
-**Model Building**: Developing machine learning models to predict customer churn using algorithms like Logistic Regression, Decision Trees, Random Forest, and more.
-**Model Evaluation**: Assessing model performance using various metrics like accuracy, precision, recall, F1-score, and AUC-ROC.
-**Results and Analysis**: Discussing the results, identifying the most important features, and providing insights into customer churn patterns.
+1. **Data Loading and Exploration**: Initial data loading, exploration, and cleaning to ensure the dataset is ready for modeling.
+2. **Feature Engineering**: Creating new features or modifying existing ones to improve model performance.
+3. **Model Building**: Developing machine learning models to predict customer churn using algorithms like Logistic Regression, Decision Trees, Random Forest, and more.
+4. **Model Evaluation**: Assessing model performance using various metrics like accuracy, precision, recall, F1-score, and AUC-ROC.
+5. **Results and Analysis**: Discussing the results, identifying the most important features, and providing insights into customer churn patterns.
 
 ## Project Organization
 
